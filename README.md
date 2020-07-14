@@ -1,2 +1,2 @@
-# Fibanacci
-suma de pares e impares
+# Curso
+JavaScrit Basic
